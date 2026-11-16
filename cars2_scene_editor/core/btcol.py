@@ -5,7 +5,7 @@ layout, the BVH block parser and the btOptimizedBvh / btQuantizedBvh rebuild
 port are that add-on's work (MIT, used with permission); this module only wraps
 them in a file-level API and speeds up the bulk array reads with NumPy.
 The rebuild is an altered (Python) port of Bullet Physics' btQuantizedBvh /
-btOptimizedBvh, Copyright (c) 2003-2006 Erwin Coumans, zlib licence - see
+btOptimizedBvh, Copyright (c) 2003-2006 Erwin Coumans, zlib license - see
 THIRD_PARTY_NOTICES.md.
 
 One BTD entry == one CollisionShapePool "TriangleList" shape; the shape's

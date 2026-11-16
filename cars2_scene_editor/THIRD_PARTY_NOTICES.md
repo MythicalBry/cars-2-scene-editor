@@ -1,7 +1,7 @@
 # Third-party notices
 
 The Cars 2 Scene Editor is licensed under the GNU General Public License v3.0 or later (see `LICENSE`). It
-includes code adapted from the projects below, each used under the licence shown; all of them are compatible
+includes code adapted from the projects below, each used under the license shown; all of them are compatible
 with the GPL.
 
 ## Cars 2 Toolkit
@@ -19,7 +19,7 @@ Collision IO" Blender add-on, used with its author's permission under the MIT Li
 
 The BVH rebuild in `core/btcol.py` is a Python port of `btQuantizedBvh` / `btOptimizedBvh` from the Bullet
 Physics library (https://github.com/bulletphysics/bullet3), altered (ported to Python, NumPy). Bullet is under
-the zlib licence:
+the zlib license:
 
 ```
 Bullet Continuous Collision Detection and Physics Library

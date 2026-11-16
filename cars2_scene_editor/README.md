@@ -1043,13 +1043,13 @@ and their `sdaemon.exe` addresses. It also covers the performance pitfalls of la
 * `core/c2oct.py`, `core/c2headers.py`, `core/c2clipblock.py`: the Cars 2 Toolkit (MIT, used with permission).
 * `core/btcol.py` BTM/BTD layout and BVH rebuild: the "Cars 2 BTD_BTM Collision IO" add-on (MIT, used with
   permission). Its BVH rebuild is a port of [Bullet Physics](https://github.com/bulletphysics/bullet3)'
-  `btQuantizedBvh` / `btOptimizedBvh` (zlib licence).
+  `btQuantizedBvh` / `btOptimizedBvh` (zlib license).
 * The vectorised vertex decoding is adapted from
   [cars-2-blender-io](https://github.com/offsetting/cars-2-blender-io) (MIT License, Team Offsetting).
 * Light-rig spherical harmonics follow Ramamoorthi & Hanrahan (SIGGRAPH 2001) and Sloan, *Stupid Spherical
   Harmonics (SH) Tricks* (GDC 2008).
 
-The full licence texts are in `THIRD_PARTY_NOTICES.md`.
+The full license texts are in `THIRD_PARTY_NOTICES.md`.
 
 Engine behaviour was worked out from the shipped game: the Arcade build's shaders (disassembled with Windows'
 d3dcompiler) and `sdaemon.exe` in Ghidra. The shader translators (`core/d3dbc.py`, `core/fxgraph.py` +

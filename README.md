@@ -18,4 +18,4 @@ belong to their respective owners.
 
 ## License
 
-GNU General Public License v3.0 or later - see [LICENSE](LICENSE). Third-party code and its licences: [THIRD_PARTY_NOTICES.md](cars2_scene_editor/THIRD_PARTY_NOTICES.md).
+GNU General Public License v3.0 or later - see [LICENSE](LICENSE). Third-party code and its licenses: [THIRD_PARTY_NOTICES.md](cars2_scene_editor/THIRD_PARTY_NOTICES.md).
